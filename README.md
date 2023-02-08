@@ -3,6 +3,7 @@
 # technologies
 - Vite
 - React,
+- Api
 - Redux 
 - SCSS.
 
