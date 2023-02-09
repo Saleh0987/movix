@@ -1,6 +1,6 @@
 # movix
 ## Movix is the best movies database application available on youtube 
-# technologies
+## technologies
 - Vite
 - React,
 - Api
